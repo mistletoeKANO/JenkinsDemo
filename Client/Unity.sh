@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 echo "start"
 
 export unity=/Applications/Unity/Unity.app
